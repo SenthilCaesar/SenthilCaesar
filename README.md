@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**SenthilCaesar/SenthilCaesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    Hi, I'm Senthil Palanivelu! 👋 <br>
+    🧠 Biomedical sleep research tools developer  <br>
+    ✨ Favorite Tech: Python, MATLAB, R, C++ ... <br>
+    📘 I’m currently learning Docker, JavaScript and AWS... <br>
+    📧 senthilcaesar@gmail.com <br>
+    💼 Portfolio: <a href="https://SenthilCaesar.github.io"> My Website </a> <br>
+    🔗 Social Network: <a href="https://www.linkedin.com/in/senthil-palanivelu-0ba38844/"> LinkedIn </a> <br>
+  </samp>
+</p>
