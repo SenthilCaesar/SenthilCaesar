@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hi, I'm Senthil Palanivelu! 👋 <br>
-    🧠 Biomedical sleep research tools developer  <br>
+    🧠 Biomedical Informatics tools developer  <br>
     ✨ Favorite Tech: Python, MATLAB, R, C++ ... <br>
     📘 I’m currently learning Shiny R, Docker and AWS... <br>
     💼 Portfolio: <a href="https://SenthilCaesar.github.io"> My Website </a> <br>
